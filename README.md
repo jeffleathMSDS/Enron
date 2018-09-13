@@ -11,4 +11,6 @@ The database I am attaching is one I built for our teams to track deal flow from
 
 *The GSS.mdb is the project database.  GSS stands for Global Strategic Sourcing
 
-The Airfare excel file was an analysis summary I did on Enron's airfare usage, in preperation for an RFP.
+* The Airfare excel file was an analysis summary I did on Enron's airfare usage, in preperation for an RFP.
+
+* The "Post 9/11" pdf was something I put together after 9/11 regarding business process changes for personnel accountability.  Enron's travel business practices were managed by our team.
