@@ -16,3 +16,6 @@ The database I am attaching is one I built for our teams to track deal flow from
 * The "Post 9/11" pdf was something I put together after 9/11 regarding business process changes for personnel accountability.  Enron's travel business practices were managed by our team.
 
 * The "P-Card" excel file was a review I did our Enron's projected ~$130MM annual spend on procurement/travel cards, in prep for an RFP.
+* The "Payroll Review" excel file was a summary of an RFP for outsourcing payroll services for our US employees in 2000.  It seemed pretty progressive for the time.
+
+I'm trying to find some of my Y2K 'coming disaster' files...
