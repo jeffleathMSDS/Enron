@@ -14,3 +14,5 @@ The database I am attaching is one I built for our teams to track deal flow from
 * The Airfare excel file was an analysis summary I did on Enron's airfare usage, in preperation for an RFP.
 
 * The "Post 9/11" pdf was something I put together after 9/11 regarding business process changes for personnel accountability.  Enron's travel business practices were managed by our team.
+
+* The "P-Card" excel file was a review I did our Enron's projected ~$130MM annual spend on procurement/travel cards, in prep for an RFP.
